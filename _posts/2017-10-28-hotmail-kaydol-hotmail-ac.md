@@ -7,6 +7,7 @@ Hotmail, ücretsiz e-posta kurmak için kullanılan bir mail sağlayıcısıdır
 {% include baglanti %}
 <h2>Hotmail Kaydol</h2>
 <ul><li>Hotmail hesabı açmak için <a target="_blank" rel="nofollow" href="https://goo.gl/hQDTNz">şuraya tıklayıp</a> kayıt alanına yönelin. Sonra açılan sayfanın en altındaki "Yeni bir e-posta adresi alın" butonuna tıklayın. Karşınıza çıkan kayıt formunu doldurmaya başlayın. Bu formu eksiksiz olarak doldurduğunuzda işlemin ilk aşamasını tamamlamış olursunuz.</li>
+{% include baglanti %}
 <li>Üst kısımdaki yere mailinizin kullanıcı adını yazın. Örneğin: alifatma_1990@hotmail.com Hesap oluştur alanında kendiniz için kimsenin kullanmadığı bir mail belirlemeniz gerekecektir. Buna uygun olarak Hotmail veya outlook uzantılı bir mail adresi açabilirsiniz. Mail adresi benzersiz ve akılda kalıcı olarak seçilmelidir. </li>
 <li>Mail adresinize karar verdikten sonra, şifrenizi belirlemeniz gerekir. Şifreniz için çabuk hatırlanan ve güçlü bir seçim yapmanız daha iyi olacaktır. Ardışık rakam ve harflerden oluşan şifreler hesabınızın güvenliğini riske atabilir. </li>
 <li>Bu adımı tamamladıktan sonra, ad-soyad ve doğum tarihi gibi alanların doldurulması gerekir. </li>
@@ -14,7 +15,7 @@ Hotmail, ücretsiz e-posta kurmak için kullanılan bir mail sağlayıcısıdır
 <li>Kaydolma işlemini tamamlamak için yapmanız gereken son adım ise, güvenlik kodunu yazarak hesabı açmaktır. Bu adımı da onayladıktan sonra Hotmail hesabını açmış olursunuz.</li></ul>
 
 Kullanıcılara hızlı ve güvenilir şekilde e-posta hizmeti veren bu servis, günümüzde milyonlarca insan tarafından tercih edilen bir adres haline gelmiştir. Hotmail hesabı açma işlemleri günümüzde çok pratik bir şekilde yapılabilir. Yukarıdaki adımları uygulamanız halinde sizlerde büyük Hotmail ağına açtığınız yeni e posta hesabıyla dahil olabilirsiniz.
-
+{% include baglanti %}
 <h3>Diğer Email Aç Siteleri</h3>
 <ul>
 <li><a href="http://mailhesabiac.xyz/gmail-hesap-ac/">Gmail Hesap Aç</a></li>
