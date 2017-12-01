@@ -4,6 +4,7 @@ title: Hotmail Kaydol, Hotmail Aç
 ---
 
 Hotmail, ücretsiz e-posta kurmak için kullanılan bir mail sağlayıcısıdır. 1995 yılında kurulan Hotmail, o tarihten itibaren tüm dünyada aktif olarak kullanılan bir e-posta hizmeti olmuştur.
+
 {% include baglanti %}
 <h2>Hotmail Kaydol</h2>
 <ul><li>Hotmail hesabı açmak için <a target="_blank" rel="nofollow" href="https://goo.gl/hQDTNz">şuraya tıklayıp</a> kayıt alanına yönelin. Sonra açılan sayfanın en altındaki "Yeni bir e-posta adresi alın" butonuna tıklayın. Karşınıza çıkan kayıt formunu doldurmaya başlayın. Bu formu eksiksiz olarak doldurduğunuzda işlemin ilk aşamasını tamamlamış olursunuz.</li>
