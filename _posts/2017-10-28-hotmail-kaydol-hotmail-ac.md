@@ -15,7 +15,7 @@ Hotmail, ücretsiz e-posta kurmak için kullanılan bir mail sağlayıcısıdır
 <li>Kaydolma işlemini tamamlamak için yapmanız gereken son adım ise, güvenlik kodunu yazarak hesabı açmaktır. Bu adımı da onayladıktan sonra Hotmail hesabını açmış olursunuz.</li></ul>
 
 Kullanıcılara hızlı ve güvenilir şekilde e-posta hizmeti veren bu servis, günümüzde milyonlarca insan tarafından tercih edilen bir adres haline gelmiştir. Hotmail hesabı açma işlemleri günümüzde çok pratik bir şekilde yapılabilir. Yukarıdaki adımları uygulamanız halinde sizlerde büyük Hotmail ağına açtığınız yeni e posta hesabıyla dahil olabilirsiniz.
-{% include baglanti %}
+
 <h3>Diğer Email Aç Siteleri</h3>
 <ul>
 <li><a href="http://mailhesabiac.xyz/gmail-hesap-ac/">Gmail Hesap Aç</a></li>
